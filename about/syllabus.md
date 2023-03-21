@@ -1,6 +1,5 @@
-![](../images/header.jpg)
 
-![](../images/UBCO_CMPS_header.jpg)
+![](../images/GT_Headlogo.png)
 
 **WGU Software Engineering**
 
