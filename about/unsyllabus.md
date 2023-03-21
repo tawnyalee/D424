@@ -1,6 +1,6 @@
 ![](../images/GT_Headlogo.png)
 
-![](../images/UBCO_CMPS_header.jpg)
+
 
 (unsyllabus)=
 # Unsyllabus
