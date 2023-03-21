@@ -1,4 +1,4 @@
-![](../images/header.jpg)
+![](../images/GT_Headlogo.png)
 
 ![](../images/UBCO_CMPS_header.jpg)
 
