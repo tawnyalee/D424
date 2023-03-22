@@ -10,7 +10,7 @@ The capstone includes {{ NUM_OF_TASKS }} parts:
 <!-- change number below based on the number of actual tasks -->
 ::::{card-carousel} 3
 
-
+<!-- add/remove cards based on number of tasks -->
 :::{card}
 :margin: 3
 :class-body: text-center
