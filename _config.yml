@@ -68,4 +68,4 @@ sphinx:
      <!-- Update this section to reflect correct course values -->
       COURSE_CODE: "D424"
       TITLE: "Software Engineering Capstone"
-     
+      NUM_OF_TASKS: 3
