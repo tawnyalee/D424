@@ -2,7 +2,7 @@
 **Welcome to {{ COURSE_CODE }}, {{ TITLE }} !**
 
 
-The capstone includes X parts:
+The capstone includes {{ NUM_OF_TASKS }} parts:
 <!-- Add/Remove tasks for actual course -->
 1. **Task One:** Get course instructor topic approval -a preliminary step to ensure you started in the right direction.
 2. **Task two:** Add brief explanation here.
