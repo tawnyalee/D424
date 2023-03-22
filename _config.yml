@@ -3,9 +3,18 @@
 title: Software Engineering Capstone
 author: Capstone Instructor Group
 logo: images/GT_Headlogo.png
-copyright: ""
+
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
+
+# Add a bibtex file so that we can create citations
+bibtex_bibfiles:
+  - references.bib
+
+# In _config.yml
+sphinx:
+  config:
+    bibtex_reference_style: author_year
 
 
 latex:
