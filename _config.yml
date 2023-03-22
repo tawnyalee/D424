@@ -2,7 +2,7 @@
 <!-- change title to appropriate course name -->
 title: Software Engineering Capstone
 author: Capstone Instructor Group
-logo: images/logo.jpg
+logo: images/GT_Headlogo.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 only_build_toc_files: true
