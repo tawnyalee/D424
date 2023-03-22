@@ -1,5 +1,5 @@
 (resources)=
-# C769 Resources
+# {{ COURSE_CODE }} Resources
 <!-- hack to open links in new tab -->
 <head>
     <base target="_blank">
@@ -10,8 +10,8 @@
 - **[ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=Assigned%20course%20instructor&subject=C769&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A)**
 
 (resources:examples)=
-## Examples
-
+## Examples - (Editing comment: Change all links based on actual course)
+<!-- Change this section based on actual course examples -->
 These examples are on-par with average passing tasks. Use them as a guideline for what evaluators accept in fulfillment of the requirements.  
 
 - **BSNOS:** [task 1](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task1-bsnos-a.pdf), [task 2](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task2-bsnos-a.pdf), and [task 3](https://github.com/ashejim/C769/blob/main/resources/examples/BSNOS/example_task3-bsnos-a.pdf)
@@ -22,7 +22,7 @@ These examples are on-par with average passing tasks. Use them as a guideline fo
 
 (resources:examples:excellence)=
 ### Excellence Archive
-
+<!-- change based on actual capstone course -->
 The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects. When reviewing archived capstones, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. For a more down-to-earth example of what's required, see the above [Examples](resources:examples) section. 
 
 ## Task 1 Resources
@@ -121,9 +121,7 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 (resources:cohort)=
 ### Webinars and Cohorts
 
-Keep an eye out for the 5 Days to Finish Task 2 Challenge Cohort. You will usually see the enrollment on Mondays in the course of study in the section Labeled *Explore Cohort*. The *Explore Cohort* section will **not be seen once enrollment is closed**. It will start on Wednesdays and will kick off with a live webinar at 7 PM ET. Each day of the cohort I will email support for a section or 2 of the proposal (task 2) to help you finish within 5-10 days. Most tend to finish in 10 days.
-
-Email Candice Allen [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=candice.allen@wgu.edu&subject=C769%20capstone%20cohort&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) for more information or questions.
+Add appropriate cohort information here.
 
 (resources:grammar)=
 ### Grammar and Sources
@@ -156,23 +154,5 @@ and then add WGU and other libraries.
 We've tried to provide everything you need here on this website as a more complete and readily available resource than the "welcome email," i.e., the *non-automated* introductory email from your assigned course instructor containing the tips and resources needed to get started in the right direction. However, we often get asked for the email, and I suppose this website would be incomplete without it. So here is an example of a "welcome email."
 
 ```{admonition} A Welcome Email
-Welcome to C769! See the [C769 IT Capstone website (this website)](https://ashejim.github.io/C769/intro.html) for almost everything you need. 
-
-To understand what the capstone requires, watch [Choosing a project idea](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc) and [Capstone Proposal Overview](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944). Your first step is [choosing a topic](task1:chooseatopic); we recommend a topic proposing a technical solution to a problem -avoiding those that deliver only information (i.e., reports, policies, plans, training, etc.). Though they often need reframing to fit the capstone requirements, past or present work projects make great capstone topics.  
-
-Follow this **Project Checklist** 
-
- - There is a plainly stated business need/problem for a *specific* client. Include details of a *specific* client's environment and problem. 
- - The topic proposes a solution specific to the needs of the client. It is not descriptive (how to do something), prescriptive >(the best way to do something), or strictly a research project.  
- - Though this is a wholly written exercise (an actual project is not required), fabricated projects must be indistinguishable from reality, and former work/school projects may need adjusting.  
- - The proposed project is related to your program emphasis. The scope may include other elements, but at least one aspect must be relatable to your program’s emphasis. 
- - Your solution must include the implementation of a *[hard deliverable](task1:faq:hard), e.g., hardware/software*. Soft deliverables (training, plans, evaluation, policies, etc.) can also be included but cannot meet the requirements alone. 
-
-**Task 1**  
- 1. Understand what the project requires and doesn't require! Watch the videos in the [Task 1 and 2 resources](resources:task1:overviewvideo) section and review these [topic approval, task 2, and task 3 examples](resources:examples). An appointment is *not* required but is encouraged if you have general questions or need guidance. 
- 2. Write the topic approval follwoing the [topic approval form](task1:topicapproval) This document should provide a rough outline summarizing your proposed project. Changes from task 1 to task 2 are allowed and typical; evaluators will not rigorously task 1 and 2. 
- 3. Use [Grammarly.com](resources:grammar:grammarly), clearly mark the IRB statement, and email it to [your course instructor](ci_page) for their signature. Appointments before approval are *not* required but are encouraged if you have concerns. 
- 4. Fill out the [IT Capstone Waiver form](task1:waiverform), and submit it along with the signed topic approval form to assessments. 
- 
-Afterward, start [task 2](task2) -the proposal. For tasks 1, 2, and 3 you can find templates, pacing guides, and more on the [C769 IT Capstone website](https://ashejim.github.io/C769/intro.html). 
+Add Welcome Email here
 ```
