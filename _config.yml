@@ -19,7 +19,7 @@ html:
   use_edit_page_button: true
   navbar_number_sections : false
   announcement: ""  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
-  # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code
+ <!-- # google_analytics_id: UA-11111111 # add your Google Analytics Tracking Code -->
   comments:
     hypothesis: false
     utterances:
@@ -57,7 +57,7 @@ sphinx:
     - substitution
 
     myst_substitutions:
-     <!-- Update this section to reflect correct course values 
+     <!-- Update this section to reflect correct course values -->
       COURSE_CODE: "D424"
       TITLE: "Software Engineering Capstone"
      
