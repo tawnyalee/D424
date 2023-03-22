@@ -40,7 +40,7 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 ### Overview Video
 
 <iframe 
-    src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e26949a3-9e24-4092-bf52-aedb014e2527&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C769 Overview" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"
+    src="" title="" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"
 >
 </iframe>
 
