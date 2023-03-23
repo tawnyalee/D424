@@ -19,7 +19,7 @@ The capstone includes {{ NUM_OF_TASKS }} parts:
 
 **Task 1**
 ^^^
-```{image} ./url_images/task1_thumb.jpg
+```{image} ./images/task1_thumb.jpg
 :height: 100
 ```
 Choose a topic and get approval.
@@ -35,7 +35,7 @@ Task 1 details {fas}`arrow-right`
 
 **Task 2**
 ^^^
-```{image} ./url_images/task2_thumb.jpg
+```{image} ./images/task2_thumb.jpg
 :height: 100
 ```
 The Proposal -a detailed paper outlining an IT solution to a client's problem.
@@ -51,7 +51,7 @@ Task 2 details {fas}`arrow-right`
 
 **Task 3**
 ^^^
-```{image} ./url_images/task3_thumb.jpg
+```{image} ./images/task3_thumb.jpg
 :height: 100
 ```
 The Conclusion -a detailed paper describing the implementation of the Proposal.
