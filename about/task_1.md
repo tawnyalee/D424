@@ -1,231 +1,122 @@
-![](../images/header.jpg)
+(task1)=
+# Task 1
+<!-- hack to open links in new tab -->
+<head>
+    <base target="_blank">
+</head>
 
-![](../images/UBCO_CMPS_header.jpg)
+(task1:chooseatopic)=
+## Choosing a Topic
 
-(page_pre_term)=
-# Before term starts
+The approval form ensures you start in the right direction before investing time and effort into task 2. Evaluators look for our ([instructors'](ci_page)) signature, and we look for the following:
 
-Welcome to {{ COURSE_CODE }}, {{ TITLE }} !
-I am very excited that you've decided to enrol in my class.
-Whether it's your choice to take this course, or if your were forced into it by your program/degree is not really that important - you're here now, and you're welcomed!
-Many of you are entering your first year of university in a new city, and maybe even a new country!
-To the students local to the area, you have a big responsibility to help your fellow students feel welcome and at home, in their new home.
-Everyone should try and make the effort to make some new friends, study partners, and acquaintances.
-We're emerging from a lockdowns and online learning, so don't think you're the only one whose social skills have severely deteriorated over the past few years!
-Take the time to introduce yourselves, share your favourite places to go, hangout, eat, socialize etc.
-Have fun with it, this is your new community!
+Add Requirements here. And update course welcome video link below.
 
-<img src="../images/friendship.jpg" alt="Silhouettes of a group of 6 friends running up the walls of what appears to be a giant pipe. Mountains and a blue sky in the background.">
+<iframe
+    src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
+    title="Choosing a topic" 
+    width="640px"
+    height="360px"
+    style="border: 1px solid #464646;"
+    allowfullscreen allow="autoplay"
+>
+</iframe>
 
-Image by [Maike und Björn Bröskamp](https://pixabay.com/users/broesis-5213623/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2366955) from [Pixabay](https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2366955)
+The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.com/sites/capstonearchives/excellence/Pages/UndergraduateInformation.aspx) includes a wide range of completed projects to review. However, keep in mind that they all are, by definition, *above and beyond* the requirements. Therefore, do not use these as examples of what's needed to meet the requirements. 
 
-I know that for some of you, the days before the term starts is filled with a nervous and anxious excitement, usually the good kind, but often the bad kind too.
-I remember when I was a student, I would frantically check to see if course information was updated and whether there was a course website, what the class was going to be like, and if there was anything I could do to get ready for the start of class.
-So when I became an instructor, I tried to reach out to my students a week or two before the term started to introduce myself and give them a few tasks to do to prepare for my class and the new school term.
+Provide Links for Acceptable passing task.
+
+(task1:topicapproval)=
+## Topic Approval
+
+Once you've decided on a topic, complete the approval form following the template: (Update w/ appropriate form link below)
+
+> [![Topic Approval Form](https://github.com/ashejim/C769/blob/main/url_images/C769_t1_approval.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/ES7B62K50FpKhgSwOZxgRVcByPT8r6oIWJDFrcpzpPNbqw?e=qWyM4D)
+
+Include a rough outline of your client, their problem(s), and your IT plan to fix it. **Email the completed form to** **[your course instructor](ci_page)** who will either approve it with their signature or provide feedback.
 
 ```{note}
-Having some stuff to do before the term starts works for some students, but for others it really feels like I'm interrupting the last days of your summer vacations. Feel free to ignore this and come back to it whenever you're ready after the term has started! You won't be missing much and it really won't take that long to do.
+<!-- below I am attempting to use the config file setting for course code on 3/23/2023. I am unsure yet if this is the proper syntax for the code already in use. -->
+The topic approval form must be *signed by a* *[ {{ COURSE_CODE}} course instructor](ci_page)*. Forms without a signature are automatically returned without further review.  
 ```
 
-Here is a list of things you can do (but don't have to) before the term starts:
+Directly emailing your assigned course instructor is the fastest and often best way to get a signature. Whether emailing [ugcapstoneit@wgu.edu](mailto:ugcapstoneit@wgu.edu?cc=my%20course%20instructor&subject=C769:%20capstone%20topic%20approval&body=Your%20name%20and%20question%20here.%20We%20can%20only%20respond%20to%20messages%20from%20a%20valid%20WGU%20email%20address.%20%0A%0ADegree%20program%3A%20%0AProgram%20Mentor%3A%20%0A) or your CI directly, always practice professional communication:
 
-```{dropdown} 📧 1. Sign up for a UBC Student Email address!
-    :class-container: sd-shadow-lg
-    :color: success
+- Use your WGU email.
+- Provide a subject, your capstone course, and your program mentor's name (if not in your signature)
+- Clearly state your questions or requests. 
 
-As a student of UBC you are entitled to a free, secure, institutional email address: **<your_cwl>@student.ubc.ca**.
-But, to claim it, you must first activate it.
+Delete the following if no waiver form is needed. If it is, update with the appropriate form link.
+(task1:waiverform)=
+## Waiver Form
 
-Here are the steps to sign up for a Student Email Address:
+<!-- Everyone must submit a waiver form stating either their project is not based on restricted information OR use of any restricted information is authorized. -->
 
-- Sign in to the [CWL myAccount page](https://www.myaccount.ubc.ca/myAccount/login.xhtml) and click on **Activate Student Email**
-    - You must be registered in a course and in good standing to be eligible for this service
-- Check your [UBC Student Email online](https://webmail.student.ubc.ca/)
-- Set up your UBC email on your mobile device
-    - [iOS](https://ubc.service-now.com/kb_view.do?sysparm_article=KB0016885)
-    - [Android](https://ubc.service-now.com/kb_view.do?sysparm_article=KB0016889)
-- Set up your UBC email on your laptop or desktop to send/receive email
-    - macOS
-        - Open the "Mail" app on your macOS
-            - If you've never linked an email account before, it will ask you to add an Account
-            - If you already have a different account added to your Mail app (for e.g., your gmail account), click on Mail on the top menubar and click "Add Account"
-        - Choose "Microsoft Exchange" as the account option
-        - Enter in your email address: <your_cwl>@student.ubc.ca
-        - Enter in your password at the prompt, and it should authenticate
-    - [Windows](https://ubc.service-now.com/kb_view.do?sysparm_article=KB0016884)
-
-You should get into the habit of using this email address as much as possible during your career at UBC.
-This account will also grant you access to a range of other UBC services including a free license to Microsoft Office and OneDrive.
+```{note}
+the waiver form is **only** required if your project is based upon or included restricted information. If no waiver form is submitted, Task 1 *B: Capstone Release Form*, passes automatically.
 ```
 
-```{dropdown} 🖨 2. Set yourself up to Print on Campus
-    :class-container: sd-shadow-lg
-    :color: success
+In most cases, obtaining authorization can be avoided by fabricating or masking identifying information. But if you choose to move forward using restricted information, you will need to obtain documented permissions and submit them along with a waiver form to Assessments.
 
-UBCO has a super sweet printing process that is fast and convenient!
-You can print from anywhere on campus and then go to your closest printer to pick up your documents.
-I encourage you to set it up and try it once before things get crazy and you need to print things in a panic.
-You'll never know when you need it!
+> [![Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7)
 
-[Set up your computer to print here.](https://it.ok.ubc.ca/services/computers-printers/printing-at-ubco/pay-for-print-students/)
-```
+<!-- :::{note}
+![waiver checkbox](../C769/url_images/waiver-check-1box.png)
+::: -->
 
-```{dropdown} 🖊 3. Create a Hypothesis account (Optional)
-    :class-container: sd-shadow-lg
-    :color: success
+(task1:faq)=
+## FAQ
 
-There's a really awesome tool called [hypothes.is](https://hypothes.is) - when enabled, it allows anyone to highlight and comment on any website.
-I have turned this feature on for our unsyllabus because I want to know what you think of the unsyllabus in our course!
-Yes, it's *our* course, we're in this together and there are some opportunities for you to determine how we do things in this course.
-I want your thoughts, feedback, and opinions on how you want the course to go this term.
-Similarly, if you have any questions about any part of the unsyllabus, the best place to ask it is right in the document itself.
-If you have a good idea for a change to the unsyllabus - I'd love to hear them, and even adopt them if they fit within the goals of the course.
-I strongly believe that you are now in charge of your own education, and I am just a guide to help point you in the right direction!
+**Do I need to set up an appointment to get approval?**
 
-Here's an animated gif of how to annotate (you'll need to sign up for a free account):
+No. Usually, students email the approval form to their instructor. We then sign to form or follow up with questions. However, if you have questions about the requirements or difficulty choosing a topic, you are encouraged to set up an appointment with [your course instructor](ci_page). A 15-30 minute phone call can address most questions or concerns. If you do set up an appointment to discuss your approval form, please email it to the instructor prior to the appointment.
 
-<img src="../images/hypothesis_annotation.gif" width="100%">
+**What if I start writing task 2 and want to change things? Do I need to resubmit task 1?**
 
-This is an experiment, and I encourage you to make comments and highlights on our unsyllabus.
-Let's see how it goes!
-Remember that your classmates will be able to see your comments too, so feel free to interact with them on here as well - we're in this together.
-Don't be shy, but please also be respectful and courteous.
-```
+No, not unless it's an entirely different topic. Minor changes from task 1 to task 2 are expected and allowed *without updating the approval form*. Evaluators will not rigorously compare tasks 1 and 2. Task 2 is where the work is, and even with complete topic changes at most, you'll be asked to revise the approval form (if at all). So never let task 1 dictate what you do in task 2.
 
-## Say Hello!
+**Can I use projects from other WGU courses?**
 
-If you created a Hypothes.is account, **select this bolded text** and make a comment about your favourite activity.
+Yes! You can use any of your work or academic projects (at WGU or elsewhere) provided no proprietary information is used without permission. Don't worry about self-plagiarism, as the similarity check will identify and ignore it. Just as in reusing work projects, expect to modify and remold past academic assignments to meet the rubric requirements.
 
-## Frequently asked questions (before the term starts)
+**Do I need an "electronic signature" as specified in the official rubric?**
 
-````{dropdown} How do I address my professors at UBCO?
-    :class-container: sd-shadow-lg
-    :color: primary
-    :open:
+You can type in your name, use a "fancy" font, or insert an image of your signature.  
 
-```{tip}
-The short answer is: always use `Dr.` + `<last name>` or `Professor` + `<last name>`.
-So you would call me `Dr. Moosvi` in emails and in-person.
-```
+**What are the common reasons for task 1 being returned?**
 
-The long answer is a bit of a rant, so bear with me here!
+1. No instructor signature on the approval form. You need to send it to us and get a signature *before* submitting it. Both boxes or no boxes are correctly marked on the waiver form. *Mark one and only one box*.
+2. Both or neither box is marked on the waiver form. Mark one and only one box. See the [waiver form instructions](task1:waiver)
 
-```{dropdown} Read the long version here!
-    :class-container: sd-shadow-lg
-    :color: warning
+Note, the waiver form is **only** required if your project is based upon or included restricted information. Task 1 *B: Capstone Release Form*, passes automatically if no waiver form is submitted, i.e., the waiver is only needed if it's needed.
 
-There is somewhat of a tension in the Ivory Tower as it has long been accepted and assumed that students at university are considered adults and thus, should be on a first-name basis with their professors.
-After all, if we want students to be comfortable in their environment, and in the name of community-building then students should drop the formalities of titles and just refer to their professors using just their first name.
-Well, it's a bit more complicated than that.
-It turns out that in our society, job titles have a lot of meaning and authority - particularly for minoritized individuals such as women and people of colour, who are already less likely to be perceived as experts (see [this article](https://www.bbc.com/worklife/article/20210216-why-do-professional-titles-actually-matter) for more about this).
-Of course it is very uncomfortable and socially inappropriate to "correct" people about your title, it seems like "bragging" or, being "uptight" and "hierarchical", as well as a host of other adjectives I'd rather not point out.
-On the other hand, we also know that students come from a variety of different cultures and backgrounds and it may be completely inappropriate and foreign for them to refer to individuals of authority by their first names.
-For these students, it can result in crippling anxiety and fear to refer to their instructors by their first names when they insist, so rather than deal with the turmoil of these interactions, they choose to not to interact with their instructors at all.
-This is very unfortunate, and a reminder to us all that there are always consequences to our decisions and we need to think through our established conventions through the lens of "who is this harming?".
+**How many attempts are allowed for each assessment?**
 
-Finally, I recognize that a lot of this may be "[hidden curriculum](https://www.edglossary.org/hidden-curriculum/)" and students may not be aware of these conventions.
-I do not believe that students are intentionally referring to their instructors using incorrect honorifics (Mr., Ms., and the worst: Miss or Mrs).
-However, it is an unfortunate and dark part of our society that it tends to happen way more to my female colleagues.
-Practically speaking, in almost all cases^, and instructors here need a PhD to teach, so even if unintentional or accidental, you are devaluing their accomplishments and titles by referring to them as anything other than `Dr.` or `Professor`.
-These titles that have been incredibly hard-earned (PhDs tend to have 5-7 years of additional education and training after a bachelor's degree), often in extremely traumatic circumstances (particularly for minoritized folks). 
-In general, I encourage you all to look within yourself and fight against your inner biases when it comes to equity and inclusion.
-Specifically in this case, I suggest you **always** refer to your instructors at UBCO with `Dr.` + `<last name>` or `Professor` + `<last name>`.
+You have unlimited attempts. However, incomplete submissions or submissions significantly falling short of the minimum requirements may be *locked* from further submissions without instructor approval. Furthermore, such submissions do not receive meaningful evaluator comments.
 
-^ *Note: In some rare cases, there may be exceptional senior grad students or exceptional teachers with Masters degrees teaching your courses. 
-Even in those cases, unless they tell you otherwise and insist, it's usually wisest (and politest) to refer to them as `Dr.` or `Professor` as well.*
-```
+(task1:faq:hard)=
+**What is a hard IT deliverable?**
 
-```{tip}
-👋🏽 If you have been referred to this page by me after an email exchange with me, please do not despair or feel bad! I do not think any less of you, I am just using this opportunity to educate you about appropriately addressing your instructors. There is absolutely no need to apologize, all is forgiven! Use this opportunity to learn more about this, and you'll do the right thing next time, I'm sure 😊! 
-```
-````
+It is a physical or digital technological addition or improvement to the client's environment. Examples include any hardware or software installation or updates. *Soft deliverables*, e.g., training, policies, evaluation, etc., can (and often should) be included but cannot meet the requirements alone.  
 
-```{dropdown} What if I cannot be in Kelowna by the start of the term?
-    :class-container: sd-shadow-lg
-    :color: primary
+**Can I get the "welcome email?"**
+Yes, contact your assigned course instructor or see the sample [welcome email](resources:general:welcomeemail) in the [C769 Resources section](resources).
 
-Unfortunately I do not have an answer for you yet - I understand this is probably a really stressful experience and it's definitely not your fault but we're working on it.
-I will let you know as soon as we can once we have official word on the process for this.
-```
+% This HTML activates utterances only on this page
 
-```{dropdown} Do I need to buy anything for this course?
-    :class-container: sd-shadow-lg
-    :color: primary
+**Are there any cohorts? I don't see where to sign-up on my COS page.**
 
-No, you do not need to purchase anything for this course.
+Yes, cohorts run regularly. Enrollment typically opens on Mondays and closes Wednesdays. You can find the link to sign-up under the *Explore Cohort* section on your {{ COURSE_CODE }} COS page. If the section is not visible, either enrollment has closed or the cohort will not be available that week. See [Webinars and Cohorts](resources:cohort) for more details.
 
-It would be helpful if you had access to a computing device as we'll be conducting all of our homework and tests online. If this is going to be a problem, please contact me through a private message on {{ FORUM_LINK }} and we can work out an accommodation.
-```
+## Questions, comments, or suggestions?
 
-```{dropdown} Which textbook are we using for this course?
-    :class-container: sd-shadow-lg
-    :color: primary
-
-{{ TEXTBOOK }}
-```
-
-```{dropdown} Will lectures be recorded so I can re-watch them to study?
-    :class-container: sd-shadow-lg
-    :color: primary
-
-Yes, lectures will be recorded and posted - mostly for students that miss the class and want to catch up on missed announcements.
-
-In general, I do not think re-watching lectures is a good way to study (even at 1.5x speed).
-It will be far more beneficial for you to try doing more problems and come to student hours or go to tutorial for extra help!
-```
-
-````{dropdown} What should I do if the course is full and I'm on the waitlist for the class?
-    :class-container: sd-shadow-lg
-    :color: primary
-
-If the course is full, please register to the waitlist and monitor the SSC for an open seat.
-Should a mass seat release be approved by the Department Head, all waitlisted students will be notified by email to register on a first-come, first-served basis.
-
-Check the SSC website frequently to see if any spots open up in the class, and self-register if you can.
-Closer to the start of term students are always switching classes and sections so this is probably your best to get registered into the course.
-If you are set on joining the class, I suggest attending class physically in-person for as long as possible so you are not behind if/when you do get into the course.
-Most of the content I use is open source so you can {{ '[access the course website]({link})'.format(link=COURSE_LINK)}}.
-
-```{tip}
-Unfortunately the **course instructor has no control over student registration** and you will not be able to join the Canvas course until you are officially registered in the class.
-If you have specific questions, I suggest contacting the department cmps.okanagan@ubc.ca. Note: the operating hours for the CMPS office are Monday - Friday, 9 a.m. - 4 p.m. (PDT).
-```
-````
-
-````{dropdown} What if I can't register in the lab/tutorial I want?
-    :class-container: sd-shadow-lg
-    :color: primary
-
-Unfortunately, there are no waitlists for labs or tutorial sections.
-I suggest you definitely register for the course and keep monitoring the space in the section you want (maybe once or twice a week?).
-Please continue to monitor the schedule over the summer for an open seat.
-The department often adds additional seats, or opens more labs depending on enrolment.
-I expect that after things stabilize and students choose their final list of courses, the lab spots will be readily available.
-Some lab sections are often blocked to help minimize cases where there are only 3-4 students in a lab section, and depending on enrolment, may open up in the future.
-
-```{tip}
-This is usually not an issue, and I don't expect this to be an issue in the future.
-I know it's a bit frustrating, but students *always* over-register into more courses than they can realistically take while they consider their options.
-If by the start of term, you're still not in a lab/tutorial, then I suggest contacting cmps.okanagan@ubc.ca to let the department know that you're not able to get into a lab/tutorial along with your constraints, and they will likely provide you with some advice.
-```
-````
-
-```{dropdown} Is this course hard? Will I fail?
-    :class-container: sd-shadow-lg
-    :color: primary
-
-I have done my best to setup this course so that if you are willing (and able) to put the work in, you will leave this course with a good grades!
-I can pretty much guarantee that - there are lots of opportunities for you to work collaboratively with your peers during the lectures and on homework assignments.
-There will be frequent tests (roughly every two weeks) in this course and you will always have an opportunity to redo your test for a higher grade.
-
-If you come in with good work ethic, the right attitude, and sufficient motivation, you will do really well - I promise!
-```
-
-```{dropdown} Is attendance in lectures, labs, and tutorials mandatory?
-    :class-container: sd-shadow-lg
-    :color: primary
-
-- Attendance is **highly recommended** in lectures and tutorials, but not required. 
-- Tutorials and labs will not be recorded, Lectures will be recorded and made available via Canvas.
-- Attendance **is required** in labs.
-```
+<script
+   type="text/javascript"
+   src="https://utteranc.es/client.js"
+   async="async"
+   repo="ashejim/C769"
+   issue-term="pathname"
+   theme="github-light"
+   label="💬 comment"
+   crossorigin="anonymous"
+/>
