@@ -19,7 +19,7 @@ The capstone includes {{ NUM_OF_TASKS }} parts:
 
 **Task 1**
 ^^^
-```{image} ./images/task1_thumb.jpg
+```{image} ../images/task1_thumb.jpg
 :height: 100
 ```
 Choose a topic and get approval.
