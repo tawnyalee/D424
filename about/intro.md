@@ -65,7 +65,7 @@ Task 3 details {fas}`arrow-right`
 First, understand the project's requirements. What they are -and what they aren't. Watch the following video:
 <iframe 
     src="" 
-    title="C769 Overview" 
+    title="Course Overview" 
     width="640px"
     height="360px"
     style="border: 1px solid #464646;" 
